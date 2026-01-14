@@ -1,9 +1,9 @@
 name: Deploy React + Vite to Github Pages
 
 on:
-    push:
-        branches:
-            -main
+  push:
+    branches:
+        main
 
 
 jobs:
